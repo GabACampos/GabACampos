@@ -85,6 +85,7 @@ Hoje, venho consolidando minha atuação em desenvolvimento front-end, aplicando
 
 </p>
 
----
 ### Conecte-se Comigo
 <a href="https://www.linkedin.com/in/larissa-gabriel-dos-santos/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+---
