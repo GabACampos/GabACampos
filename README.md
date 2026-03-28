@@ -72,15 +72,12 @@ Hoje, venho consolidando minha atuação em desenvolvimento front-end, aplicando
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=GabACampos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+    src="https://github-readme-stats-mauve-tau-80.vercel.app/api?username=gabacampos&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=8B33F1&locale=pt-br&cache_seconds=61&include_all_commits=true&count_private=true&v=2"> 
 
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabACampos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+    align="left"
+    alt="Top Langs" 
+    height="200" 
+    src="https://github-readme-stats-mauve-tau-80.vercel.app/api/top-langs/?username=gabacampos&bg_color=000000&title_color=ffffff&text_color=ffffff&layout=compact&custom_title=Tecnologias&langs_count=9&count_private=true&cache_seconds=61&v=2"> 
 
 </p>
