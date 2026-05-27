@@ -5,11 +5,29 @@
 
 Me chamo Gabriel Alves Campos, tenho 21 anos e sou do Rio de Janeiro. Sou formado em Análise e Desenvolvimento de Sistemas e possuo sólida base técnica consolidada pela formação em Tecnologia da Informação pela Firjan SENAI SESI. 
 
-Hoje, venho consolidando minha atuação em desenvolvimento front-end, aplicando conhecimentos em HTML, CSS e JavaScript em projetos práticos voltados a interfaces claras, responsivas e organizadas.
+Hoje, venho consolidando minha atuação em desenvolvimento front-end, aplicando conhecimentos em HTML, CSS e TypeScript/JavaScript em projetos práticos voltados a interfaces claras, responsivas e organizadas.
 
 ---
 
 ### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="TypeScript" 
+    title="TypeScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
 
 <img 
     align="left" 
@@ -27,14 +45,7 @@ Hoje, venho consolidando minha atuação em desenvolvimento front-end, aplicando
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+
 
 <img 
     align="left" 
