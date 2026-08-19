@@ -89,6 +89,6 @@ Hoje, venho consolidando minha atuação em desenvolvimento front-end, aplicando
     align="left"
     alt="Top Langs" 
     height="200" 
-    src="https://github-readme-stats-mauve-tau-80.vercel.app/api/top-langs/?username=gbacampos&bg_color=000000&title_color=ffffff&text_color=ffffff&layout=compact&custom_title=Tecnologias&langs_count=9&count_private=true&cache_seconds=61&v=2"> 
+    src="https://github-readme-stats-mauve-tau-80.vercel.app/api/top-langs/?username=gabacampos&bg_color=000000&title_color=ffffff&text_color=ffffff&layout=compact&custom_title=Tecnologias&langs_count=9&count_private=true&cache_seconds=61&v=2"> 
 
 </p>
